@@ -56,12 +56,12 @@ func Test_sort(t *testing.T) {
 		})
 	}
 }
-/* 
+/* output
 	=== RUN   Test_sort
 	=== RUN   Test_sort/array1
 	--- PASS: Test_sort (0.00s)
    	--- PASS: Test_sort/array1 (0.00s)
-PASS
+	PASS
 */
 
 func Benchmark_sort(b *testing.B) {
@@ -71,7 +71,7 @@ func Benchmark_sort(b *testing.B) {
 		sort(s)
 	}
 }
-/* 
+/* output
 	goos: windows
 	goarch: amd64
 	pkg: example/algorithm
