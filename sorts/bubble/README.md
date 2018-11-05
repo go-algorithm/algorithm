@@ -18,6 +18,8 @@
 
 ## 代码示例
 
+> bubble.go
+
 ```go
 func sort(array []int){
 	length := len(array)
@@ -32,6 +34,28 @@ func sort(array []int){
     }
 } 
 
+```
+
+> bubble_test.go
+
+```go
+func Test_sort(t *testing.T) {
+	type args struct {
+		array []int
+	}
+	tests := []struct {
+		name string
+		args args
+	}{
+		// TODO: Add test cases.
+		{name:"array1",args: struct{ array []int }{array: []int{56,65,9,16,2,82,78,31,11,56,2}}},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			sort(tt.args.array)
+		})
+	}
+}
 ```
 
 
