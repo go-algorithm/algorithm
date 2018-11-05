@@ -56,6 +56,29 @@ func Test_sort(t *testing.T) {
 		})
 	}
 }
+/* 
+	=== RUN   Test_sort
+	=== RUN   Test_sort/array1
+	--- PASS: Test_sort (0.00s)
+   	--- PASS: Test_sort/array1 (0.00s)
+PASS
+*/
+
+func Benchmark_sort(b *testing.B) {
+	s := []int{56,65,9,16,2,82,78,31,11,56,2}
+	b.ResetTimer()
+	for i := 0; i < b.N; i++ {
+		sort(s)
+	}
+}
+/* 
+	goos: windows
+	goarch: amd64
+	pkg: example/algorithm
+	Benchmark_sort-8   	30000000	        53.4 ns/op
+	PASS
+
+*/
 ```
 
 
