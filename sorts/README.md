@@ -6,4 +6,4 @@
 
 - [冒泡排序](https://github.com/go-algorithm/algorithm/tree/master/sorts/bubble)
 
-- [快速排序](https://github.com/go-algorithm/algorithm/tree/master/sorts/selection-sort)
+- [选择排序](https://github.com/go-algorithm/algorithm/tree/master/sorts/selection-sort)
