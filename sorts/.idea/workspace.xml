@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="042e2e5b-d746-4486-a72e-105ed7d30d86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bubble/bubble.go" beforeDir="false" afterPath="$PROJECT_DIR$/bubble/bubble.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bubble/bubble_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/bubble/bubble_test.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="582141360">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="go" value="4" />
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Go" value="4" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Go" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bubble/bubble.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bubble/bubble_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bubble/README.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/selection-sort/selection.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+              <folding>
+                <element signature="e#30#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/selection-sort/selection_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/selection-sort/selection.go" />
+        <option value="$PROJECT_DIR$/selection-sort/selection_test.go" />
+        <option value="$PROJECT_DIR$/bubble/bubble_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="344" />
+    <option name="y" value="45" />
+    <option name="width" value="1523" />
+    <option name="height" value="979" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sorts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sorts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sorts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sorts" type="462c0819:PsiDirectoryNode" />
+              <item name="bubble" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sorts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sorts" type="462c0819:PsiDirectoryNode" />
+              <item name="selection-sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.Benchmark_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble">
+    <configuration name="Benchmark_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="sorts" />
+      <working_directory value="$PROJECT_DIR$/bubble" />
+      <go_parameters value="-i" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="github.com/go-algorithm/algorithm/sorts/bubble" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Benchmark_BubbleSort$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMakeArray in github.com/go-algorithm/algorithm/sorts/selection-sort" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="sorts" />
+      <working_directory value="$PROJECT_DIR$/selection-sort" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/go-algorithm/algorithm/sorts/selection-sort" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestMakeArray$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSelectionSort in github.com/go-algorithm/algorithm/sorts/selection-sort" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="sorts" />
+      <working_directory value="$PROJECT_DIR$/selection-sort" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/go-algorithm/algorithm/sorts/selection-sort" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSelectionSort$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="sorts" />
+      <working_directory value="$PROJECT_DIR$/bubble" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/go-algorithm/algorithm/sorts/bubble" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_BubbleSort$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Test.TestSelectionSort in github.com/go-algorithm/algorithm/sorts/selection-sort" />
+      <item itemvalue="Go Test.TestMakeArray in github.com/go-algorithm/algorithm/sorts/selection-sort" />
+      <item itemvalue="Go Test.Test_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble" />
+      <item itemvalue="Go Test.Benchmark_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.Benchmark_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble" />
+        <item itemvalue="Go Test.Test_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble" />
+        <item itemvalue="Go Test.TestMakeArray in github.com/go-algorithm/algorithm/sorts/selection-sort" />
+        <item itemvalue="Go Test.TestSelectionSort in github.com/go-algorithm/algorithm/sorts/selection-sort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestMakeArray_in_github_com_go-algorithm_algorithm_sorts_selection-sort - 2018.11.10 at 12h 04m 06s.xml">
+      <configuration name="TestMakeArray in github.com/go-algorithm/algorithm/sorts/selection-sort" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_BubbleSort_in_github_com_go-algorithm_algorithm_sorts_bubble - 2018.11.10 at 12h 04m 17s.xml">
+      <configuration name="Test_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_BubbleSort_in_github_com_go-algorithm_algorithm_sorts_bubble - 2018.11.10 at 12h 04m 26s.xml">
+      <configuration name="Test_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Benchmark_BubbleSort_in_github_com_go-algorithm_algorithm_sorts_bubble - 2018.11.10 at 12h 04m 36s.xml">
+      <configuration name="Benchmark_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Benchmark_BubbleSort_in_github_com_go-algorithm_algorithm_sorts_bubble - 2018.11.10 at 12h 04m 56s.xml">
+      <configuration name="Benchmark_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Benchmark_BubbleSort_in_github_com_go-algorithm_algorithm_sorts_bubble - 2018.11.10 at 12h 05m 09s.xml">
+      <configuration name="Benchmark_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Benchmark_BubbleSort_in_github_com_go-algorithm_algorithm_sorts_bubble - 2018.11.10 at 12h 05m 16s.xml">
+      <configuration name="Benchmark_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Benchmark_BubbleSort_in_github_com_go-algorithm_algorithm_sorts_bubble - 2018.11.10 at 12h 05m 21s.xml">
+      <configuration name="Benchmark_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Benchmark_BubbleSort_in_github_com_go-algorithm_algorithm_sorts_bubble - 2018.11.10 at 12h 05m 25s.xml">
+      <configuration name="Benchmark_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Benchmark_BubbleSort_in_github_com_go-algorithm_algorithm_sorts_bubble - 2018.11.10 at 12h 05m 29s.xml">
+      <configuration name="Benchmark_BubbleSort in github.com/go-algorithm/algorithm/sorts/bubble" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="344" y="45" width="1523" height="979" extended-state="1" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4789916" visible="true" weight="0.15660252" />
+      <window_info id="Structure" order="1" sideWeight="0.52100843" side_tool="true" weight="0.15607886" />
+      <window_info id="Favorites" order="2" sideWeight="0.52100843" side_tool="true" weight="0.15607886" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.26516855" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49835706" visible="true" weight="0.24855492" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988764" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32921347" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.24044944" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32921347" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50164294" side_tool="true" weight="0.31910113" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4989339" weight="0.32921347" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32968238" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bubble/bubble.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bubble/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selection-sort/selection_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bubble/bubble_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selection-sort/selection.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+          <folding>
+            <element signature="e#30#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
