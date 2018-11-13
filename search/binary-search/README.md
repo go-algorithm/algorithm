@@ -59,3 +59,6 @@ func RecursiveBinarySearch(array []int,start,end int,  target int) (index int) {
 	return -1
 }
 ```
+参考: 
+* https://blog.csdn.net/lovesummerforever/article/details/78511965#commentBox
+* https://github.com/liyu4/learn-algorithm-365/blob/master/search/search.go
