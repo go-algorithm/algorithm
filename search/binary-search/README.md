@@ -5,7 +5,8 @@
 
 
 ## 示意图
-![binary-search](https://images2015.cnblogs.com/blog/461877/201607/461877-20160721092729169-843824718.gif)
+![binary-search](https://dojo.stuycs.org/resources/_images/binary-and-linear-search.gif)
+![binary-search](https://codepumpkin.com/wp-content/uploads/2017/10/binary-search.gif)
 
 ## Code
 
