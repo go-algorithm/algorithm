@@ -14,7 +14,7 @@
 // 二分查找普通实现(非递归)  根据目标值查找出在有序数组中的位置。
 // in 		有序数组
 // target	查找索引的值
-// index    值的索引，不存在则返回-1
+// index    	值的索引，不存在则返回-1
 func BinarySearch(array []int, target int) (index int) {
 	i, j := 0, len(array)-1
 	for i < j {
@@ -41,7 +41,7 @@ func BinarySearch(array []int, target int) (index int) {
 // start	数组低下标
 // end		数组高下标
 // target	查找索引的值
-// index    值的索引，不存在则返回-1
+// index    	值的索引，不存在则返回-1
 func RecursiveBinarySearch(array []int,start,end int,  target int) (index int) {
 	mid := (end - start) / 2 + start
 	if array[mid] == target {
